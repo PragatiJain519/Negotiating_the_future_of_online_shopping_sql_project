@@ -1,0 +1,1 @@
+# Negotiating_the_future_of_online_shopping_sql_project
