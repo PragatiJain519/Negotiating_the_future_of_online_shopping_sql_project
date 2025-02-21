@@ -15,18 +15,26 @@
 
 ### ** Basic Probleam Solutions :**
 
- 1 we have a total unique cities is '4119'
- 2 In the Year of 2017 total order placed is '45101'
+ 1 we have a total unique cities is '4119'.
+ 
+ 2 In the Year of 2017 total order placed is '45101'.
+ 
  3 Top prodect category by sales is 'HEALTH BEAUTY','Watches present' & 'bed table bath'.
- 4 percent_of_order_paid_in_installment is : 285.33
+ 
+ 4 percent_of_order_paid_in_installment is : 285.33.
+ 
  5 In the 'SP'&'RJ' state we have highest customer.
 
 ### ** Intermediate Probleam Solutions **
 
  1, in the year of 2018 we have a highest order in 'January' & 'March' Month.
+ 
  2, persentage of total revenue contribution top 5 product category is 'HEALTH BEAUTY=9.26%','Watches present=8.87%','bed table bath = 7.63%',sport leisure=7.27%,'computer accessories=6.71%'.
+ 
  3, Correlation between Product price and the number of times a product has been purchased : 0.00039.
+ 
  4, in this analysis '4869f7a5dfa277a7dca6462dcf3b52b2' seller_id we have a highest revenue '229472'
+ 
 
 ### ** Advanced probleam solutions **
 
